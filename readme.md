@@ -37,7 +37,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/license-plate-detection.git
+git clone https://github.com/iamaffanyasir/license-plate-detector
 Navigate to the project directory:
 
 bash
